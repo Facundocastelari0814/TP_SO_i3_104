@@ -6,11 +6,10 @@ Participantes:
 
 Respuestas:
 
-BETA
+BETA: Facundo Castelari
 a-) Despues del merge, la rama master queda con la version mas actual del proyecto.
 b-) si, BETA puede ver los cambios pero solo despues de actualizar su repositorio local.
-C-)
-Para asegurarnos de estar en la rama principal:
+C-) Para asegurarnos de estar en la rama principal:
 git checkout main
 
 Para traer la version mas reciente:
@@ -21,3 +20,21 @@ git merge Catrini
 
 Subir los cambios:
 git push origin main
+
+ALFA: Renata Fazio
+g) Para poder realizar el punto 8, usé los siguientes comandos:
+Actualizar lo último que hay en el repositorio y cambiar de rama a la rama "Castelari"
+git branch -r
+git switch Castelari
+git pull
+Hacer el echo para que se agregue al final del archivo beta.txt
+echo "ALFA: Renata Fazio" >> beta.txt
+ipconfig >> beta.txt
+echo "17:26" >> beta.txt
+Para confirmar que se subió correctamente
+cat beta.txt
+Hacer el commit y el push
+git add beta.txt
+git commit -m "Alfa agrega datos a beta.txt"
+git push origin Castelari
+
