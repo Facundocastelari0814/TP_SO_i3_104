@@ -1,0 +1,23 @@
+Participantes:
+
+-Fazio Renata (ALFA)
+-Castelari Facundo (BETA)
+-Catrini Lucio (GAMMA)
+
+Respuestas:
+
+BETA
+a-) Despues del merge, la rama master queda con la version mas actual del proyecto.
+b-) si, BETA puede ver los cambios pero solo despues de actualizar su repositorio local.
+C-)
+Para asegurarnos de estar en la rama principal:
+git checkout main
+
+Para traer la version mas reciente:
+git pull origin main
+
+Para unir la rama de GAMMA con la rama principal:
+git merge Catrini
+
+Subir los cambios:
+git push origin main
