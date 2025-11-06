@@ -20,6 +20,25 @@ git merge Catrini
 
 Subir los cambios:
 git push origin main
+GAMMA: Lucio Catrini
+
+d-)Si,las ramas creadas por BETA y GAMMA quedan actualizadas,siempre y cuando hagan un git merge o un git pull desde la rama principal(main).
+   De esta forma,ambas ramas incorporan los ultimos cambio que fueron subidos.
+e-)Problemas durante el merge:
+-una de las ramas estaba desactualizada respecto a main lo que generaba errores al intentar hacer el merge.Se soluciono usando git fetch origin y un git pull origin main antes de intentar hacer de vuelta el merge.
+-Cuando dos integrantes estan modificando la misma parte de un archivo y Git no sabe cual version dejar,asi que tuvimos que abrir el archivo (nano),ver las partes marcadas por Git y elegir las correctas ,luego un git add y git commit
+
+f-)Comandos para hacer lo pedido en el punto 7:
+
+cd TP_SO_i3_104
+git pull origin main
+git branch -a
+git checkout CasteIari
+nano beta.txt 
+git add beta.txt
+git commit -m "GAMMA agrega datos a beta.txt"
+git push origin CasteIari
+
 
 ALFA: Renata Fazio
 g) Para poder realizar el punto 8, usé los siguientes comandos:
