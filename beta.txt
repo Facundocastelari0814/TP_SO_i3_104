@@ -89,3 +89,48 @@ Adaptador de LAN inal爉brica Wi-Fi:
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS especico para la conexi. . : 
 17:26
+
+GAMMA: Lucio Catrini
+
+Configuraci贸n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de Ethernet Ethernet 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+   V铆nculo: direcci贸n IPv6 local. . . : fe80::66cb:207d:7400:ef73%16
+   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inal谩mbrica Local Area Connection* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de LAN inal谩mbrica Local Area Connection* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de LAN inal谩mbrica Wi-Fi:
+
+   Sufijo DNS espec铆fico para la conexi贸n. . : fibertel.com.ar
+   Direcci贸n IPv6 . . . . . . . . . . : 2800:2161:1400:e36:14a:79d3:65a6:95b5
+   Direcci贸n IPv6 temporal. . . . . . : 2800:2161:1400:e36:e11d:ad9:a60a:289
+   V铆nculo: direcci贸n IPv6 local. . . : fe80::d3c:92b1:f136:2ccb%14
+   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.0.229
+   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::10:18ff:fe45:6484%14
+                                       192.168.0
+Hora: 00:30
