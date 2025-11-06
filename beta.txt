@@ -1,0 +1,136 @@
+Nombre: Facundo Castelari
+
+Configuraci IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::cc2c:4712:c855:75f4%12
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Wi-Fi:
+
+   Sufijo DNS especico para la conexi. . : 
+   Direcci IPv6 . . . . . . . . . . : 2803:9800:b013:7e13:9dc0:640a:f98:ac27
+   Direcci IPv6 temporal. . . . . . : 2803:9800:b013:7e13:292a:1f90:8b7c:a70d
+   Vculo: direcci IPv6 local. . . : fe80::9ec3:677:718f:a371%15
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.100.15
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%15
+                                       192.168.100.1
+
+Adaptador de Ethernet Conexi de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de Ethernet vEthernet (WSL):
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::1fff:e847:5c5e:18d5%46
+   Direcci IPv4. . . . . . . . . . . . . . : 172.25.192.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+Hora: 16:57
+ALFA: Renata Fazio
+
+Configuraci IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS especico para la conexi. . : 
+   Direcci IPv6 . . . . . . . . . . : 2802:8010:61d7:bb00:4e34:6f4b:d212:27a8
+   Direcci IPv6 temporal. . . . . . : 2802:8010:61d7:bb00:f88f:d44f:de1a:7db8
+   Vculo: direcci IPv6 local. . . : fe80::387c:b419:12be:dcc7%17
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.1.47
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ced4:a1ff:fe21:f61d%17
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::9938:c033:4fe9:e510%12
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+17:26
+
+GAMMA: Lucio Catrini
+
+Configuraci贸n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de Ethernet Ethernet 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+   V铆nculo: direcci贸n IPv6 local. . . : fe80::66cb:207d:7400:ef73%16
+   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inal谩mbrica Local Area Connection* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de LAN inal谩mbrica Local Area Connection* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec铆fico para la conexi贸n. . :
+
+Adaptador de LAN inal谩mbrica Wi-Fi:
+
+   Sufijo DNS espec铆fico para la conexi贸n. . : fibertel.com.ar
+   Direcci贸n IPv6 . . . . . . . . . . : 2800:2161:1400:e36:14a:79d3:65a6:95b5
+   Direcci贸n IPv6 temporal. . . . . . : 2800:2161:1400:e36:e11d:ad9:a60a:289
+   V铆nculo: direcci贸n IPv6 local. . . : fe80::d3c:92b1:f136:2ccb%14
+   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.0.229
+   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::10:18ff:fe45:6484%14
+                                       192.168.0
+Hora: 00:30
